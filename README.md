@@ -1,4 +1,4 @@
-# MyVestiaireWeather
+# MyOpenWeather
 
 This is a native iOS weather application using Open Weather API. Just self-learning Swift at home. 
 I am using only one 3rd party library : Kingfisher which is a very powerful library used for asynchronous image downloading and caching.
